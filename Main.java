@@ -8,11 +8,11 @@ public class Main {
 		Scanner iScan = new Scanner(System.in);
 		Scanner oScan = new Scanner(System.in);
 		Scanner lScan = new Scanner(System.in);
-		// 1G = 0.0199€
-		// 100G = 200 * 0.0199€
-		// 500G = 8.99/500€ | 0.01798
-		// 1000G = 14.99/1000€ | 0.01499
-		// 3000G = 33.99/3000€ | 0.01133
+		// 1G ~ 0.0199â‚¬
+		// 100G ~ 100/1.99â‚¬ | 0.0199â‚¬
+		// 500G ~ 8.99/500â‚¬ | 0.01798
+		// 1000G ~ 14.99/1000â‚¬ | 0.01499
+		// 3000G ~ 33.99/3000â‚¬ | 0.01133
 
 		String waehrung = "init";
 		double goldWert = 0;
